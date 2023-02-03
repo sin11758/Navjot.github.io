@@ -17,11 +17,11 @@
 
 /* variables */
 :root{
-    --a:#64fdb3;
-    --b90:#e79d7ee6;
-    --a60:#63fdb399;
-    --b:#e69d7e;
-    --b60:#e79e7e99;
+    --a:#d056f9;
+    --b90:#ffffffe6;
+    --a60:#d158f999;
+    --b:#ffffff;
+    --b60:#ffffff99;
     --c:#009AFE;
     --p:#6c6992e7
 }
@@ -67,7 +67,6 @@ body{
     background-color: rgba(255, 255, 255, 0.5);
     backdrop-filter: blur(5px);
     z-index: 4;
-
 }
 
 

@@ -45,6 +45,7 @@
     color: var(--b90);
     text-align: center;
     backdrop-filter: blur(3px);
+    text-shadow: black 1px 1px 3px;
 }
 
 .home-welcome-svg{
@@ -60,8 +61,10 @@
     overflow: hidden;
     animation: typewriter 1s steps(40) 1s 1 normal both,
     blinkTextCursor 100ms infinite;
-
+    text-shadow: black 1px 1px 3px;
+    
 }
+
 
 
 @keyframes typewriter {
@@ -130,8 +133,8 @@
     text-align: center;
     font-size: 40px;
     color: var(--b);
+    text-shadow:black 1px 1px 4px ;
     margin: 20px;
-    text-shadow: 1px 1px 2px var(--a);
     
 }
 .home-about-img{
@@ -146,7 +149,7 @@
     flex-direction: column;
     font-size: 25px;
     color:var(--b);
-    text-shadow:var(--a) 1px 1px 2px ;
+    text-shadow:black 1px 1px 4px ;
     margin: 20px;
     text-align: start;
     
@@ -182,6 +185,7 @@
     font-size: 40px;
     color: var(--a);
     height: 40px;
+    text-shadow:black 1px 1px 1px ;
 }
 
 .home-services-box{
